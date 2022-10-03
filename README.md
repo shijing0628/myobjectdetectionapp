@@ -30,5 +30,5 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `gif`
-![](https://github.com/myobjectdetectionapp/objectDetection.gif)
+![](https://github.com/shijing0628/myobjectdetectionapp/blob/main/objectDetection.gif)
 
